@@ -1,2 +1,2 @@
 # follow_robot
-This robot fallowing line
+This robot following line
